@@ -1,0 +1,47 @@
+@media (max-width:767px) {
+
+    /* body {
+        overflow-y: visible;
+        overflow-x: visible;
+    }*/
+
+    .img {
+        width: 355px;
+        height: 280px;
+        margin-top: 10px;
+        border-radius: 9px 9px 0 0;
+        object-fit:cover;
+        }
+
+    .box {
+        width: 355px;
+        height: 360px;
+        margin-top: -3px;
+        margin-left: 385px;
+        border-radius: 0 0 9px 9px;
+    }
+
+    .title {
+        max-width: 90%;
+    }
+
+    .desc {
+        max-width: 99%;
+    }
+
+    button {
+        margin: 0;
+        padding-right: 30px;
+        max-width: 299px;
+    }
+
+    .cart {
+        
+        margin-left: 45px;
+    }
+    
+    .add {
+        margin-left: 45px;
+    }
+}
+
